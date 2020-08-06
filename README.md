@@ -5,7 +5,8 @@
 
 ## Hi there 👋
 I am in love with Programming, love to solve problems and create new things using programming.
-<br/>I am a Web Developer Jr:computer: looking for one oportunity to grow up with the company and show my skills
+<br/>I am a Web Developer Jr:computer: 
+<br/>looking for one oportunity to grow up with the company and show my skills
 
  :rocket:  &nbsp; Looking for a Job at the moment
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React and Back-end using Node
