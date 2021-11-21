@@ -9,7 +9,7 @@ export function AboutMyself() {
 
 const motivation = started 
 
- motivtion ? 'fails' : 'Discipline wins'
+ motivation ? 'fails' : 'Discipline wins'
 
 
  return ( 
