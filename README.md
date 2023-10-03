@@ -3,7 +3,7 @@
 
 # Felipe Viana
 
-``` javascript
+``` c++
 
 export function AboutMyself() {
 
