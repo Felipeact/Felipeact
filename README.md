@@ -3,10 +3,11 @@
 
 # Felipe Viana
 
-``` c++
+``` C++
 
-export function AboutMyself() {
+class AboutMyself() {
 
+public:
 const motivation = started 
 
  motivation ? 'fails' : 'Discipline wins'
