@@ -11,4 +11,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-felipetiburcioviana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipetiburciovia@gmail.com)](mailto:felipetiburcioviana@gmail.com)
 
 
-:)
