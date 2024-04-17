@@ -1,6 +1,8 @@
 
 
- 
+Hey there, I'm Felipe Viana, a gameplay programmer specializing in C++ and Unreal Engine. 
+With a passion for crafting immersive gaming experiences, I thrive on bringing ideas to life through code and creativity. From designing intricate gameplay systems to optimizing performance, I'm dedicated to pushing the boundaries of what's possible in the world of game development. Let's create something unforgettable together.
+
 
 
 
