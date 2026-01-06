@@ -1,8 +1,17 @@
-### Hey there, I'm Felipe Viana! 👋
+## Gameplay Systems Programmer | Unreal Engine | C++
 
-I'm a gameplay programmer with a knack for C++ and Unreal Engine. I'm all about crafting immersive gaming experiences that leave a lasting impression. Whether it's coding intricate gameplay mechanics or optimizing performance, I'm here to push the boundaries of game development. Let's team up and create something unforgettable together!
+I focus on building scalable, multiplayer-safe gameplay systems in Unreal Engine using C++.
 
-![Felipe Viana's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeact&layout=compact&count_private=true&hide_border=true&theme=radical)
+### Core Skills
+- Unreal Engine 5 (C++)
+- Gameplay systems architecture
+- Multiplayer replication
+- AI gameplay systems
+- Performance optimization
+
+### Highlighted Projects
+- Advanced Shooter – Modular FPS systems
+- Quest Locator – Quest & progression systems
 
 ### Get in Touch 📬
 
