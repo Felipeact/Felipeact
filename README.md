@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Viana</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · Vancouver, BC 🇨🇦<br>
+  <strong>Full-Stack Developer</strong> · Vancouver, BC CA <br>
   I build production web platforms, internal tools, and the automation that keeps field operations running.
 </p>
 
