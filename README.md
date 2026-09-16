@@ -38,7 +38,7 @@ A production-shaped SaaS backend with two native clients on top of the same REST
 
 `TypeScript` `Express 5` `Prisma` `PostgreSQL` `Qt6/C++` `Flutter` `Docker` `Stripe`
 
-[**API & backend →**](https://github.com/Felipeact/inventory-system-api) · [**Qt desktop client →**](https://github.com/Felipeact/InventoryQtApp) · [**Live site →**]((https://inventory-system-q80beqi5w-felipeacts-projects.vercel.app/))
+[**API & backend →**](https://github.com/Felipeact/inventory-system-api) · [**Qt desktop client →**](https://github.com/Felipeact/InventoryQtApp) · [**Live site →**](https://inventory-system-q80beqi5w-felipeacts-projects.vercel.app/)
 
 ---
 
@@ -52,7 +52,7 @@ A full-stack Next.js app for an electrical contracting business: public marketin
 
 `Next.js 16` `React 19` `TypeScript` `Prisma` `PostgreSQL`
 
-[**Repository →**](https://github.com/Felipeact/MarcoEletric) · [**Live site →**]((https://marceletrica.com))
+[**Repository →**](https://github.com/Felipeact/MarcoEletric) · [**Live site →**](https://marceletrica.com)
 
 ---
 
