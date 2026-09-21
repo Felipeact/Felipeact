@@ -15,7 +15,7 @@
 
 ## What I actually do
 
-Most of my code starts as a real operational problem. I spend my days coordinating a multi-technician field-service operation — intake, dispatch, SLA windows, invoicing, parts — and I've spent the last few years turning the painful parts of that work into software.
+Most of my code starts as a real operational problem. I spend my days coordinating a multi-technician field-service operation intake, dispatch, SLA windows, invoicing, parts, and I've spent the last few years turning the painful parts of that work into software.
 
 That combination is the whole point of my profile: I'm a developer who has *lived inside* the workflows that field-service, logistics, and trades platforms are built to serve. I know what breaks at 4:55pm on a Friday when a dispatch window is about to blow, because I've been the person fixing it.
 
